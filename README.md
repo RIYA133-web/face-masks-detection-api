@@ -84,5 +84,4 @@ Response Example:
 ---
 
 ## 📌 Author
-
-Your Name
+Riya Rai
